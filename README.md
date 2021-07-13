@@ -34,3 +34,5 @@ https://alantran14.github.io/CatPhotoApp/
     <button type="submit">Submit</button>
   </form>
 </main>
+
+</html>
