@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 [Link to CatPhotoApp website](https://alantran14.github.io/CatPhotoApp/)
 
@@ -33,4 +33,4 @@
   </form>
 </main>
 
-</html>
+
