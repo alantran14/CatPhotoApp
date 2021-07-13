@@ -3,9 +3,8 @@
 https://alantran14.github.io/CatPhotoApp/
 
 
-<head>
 <h2>CatPhotoApp</h2>
-  </head>
+
  
 <main>
   <p>Click here to view more <a href="#">cat photos</a>.</p>
