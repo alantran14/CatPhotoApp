@@ -1,8 +1,8 @@
-
+<!DOCTYPE html>
 
 https://alantran14.github.io/CatPhotoApp/
 
-<!DOCTYPE html>
+
 <head>
 <h2>CatPhotoApp</h2>
   </head>
