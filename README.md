@@ -1,6 +1,6 @@
 
 
-[Link to CatPhotoApp website](https://alantran14.github.io/CatPhotoApp/)
+[GitHub link to CatPhotoApp website](https://alantran14.github.io/CatPhotoApp/)
 
 
  
