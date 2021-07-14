@@ -1,7 +1,5 @@
 
 
-[GitHub link to CatPhotoApp website](https://alantran14.github.io/CatPhotoApp/)
-
 >**https://alantran14.github.io/CatPhotoApp/**
 
  
